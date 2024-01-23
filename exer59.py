@@ -1,5 +1,5 @@
 n1 = int(input('insira um numero '))
-n2 = int(input('insira um numero '))
+n2 = int(input('insira outro numero '))
 op = 0
 while op !=5:
     print('''
